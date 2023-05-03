@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "netrandom"
-version = "0.1.0"
+version = "0.2.0"
 description = "Generate random network addresses"
 authors = ["Patrick Keohane <pgkeohane@gmail.com>"]
 license = "Apache License 2.0"
